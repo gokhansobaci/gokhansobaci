@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-vlgcy&psig=AOvVaw35sWqjDEnd4cINP0Ed9cBi&ust=1695635895246000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjYuov-woEDFQAAAAAdAAAAABAa)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7Rxm9rRtk81hYdadjGwj6zQe2mJwL3R_5w&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Gökhan Sobacı</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
