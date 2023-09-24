@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaper.dog/large/20567153.jpg)
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Gökhan Sobacı</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
