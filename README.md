@@ -1,4 +1,4 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/603/260/908/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg)
+![MasterHead](https://www.tbstat.com/wp/uploads/2019/08/lightning-network-1200x675.jpg)
 <h1 align="center">Hi 👋, I'm Gökhan Sobacı</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
